@@ -1,24 +1,25 @@
-
-
 #include <iostream>
 #include <string>
 using namespace std;
 bool IsPalindrom( string s){
+
 	int k=s.length();
 	int cnt=0;
-	for(int i=0; i<k/2; i++ ){
-		if(s[i]==s[k-i-1]){
-			cnt++;
-		}
-	}
+		for(int i=0; i<k/2; i++ ){
 
+			if(s[i]==s[k-i-1]){
+
+				cnt++;
+
+				}
+			}
 	if(cnt==k/2){
 
-	return true;
+		return true;
 	}
 	else{
 
-	return false;
+		return false;
 	}
 }
 
