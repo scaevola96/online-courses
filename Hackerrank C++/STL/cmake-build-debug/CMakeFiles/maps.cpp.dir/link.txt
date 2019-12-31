@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\maps.cpp.dir/objects.a
+C:\dev\mingw64\mingw64\bin\ar.exe cr CMakeFiles\maps.cpp.dir/objects.a @CMakeFiles\maps.cpp.dir\objects1.rsp
+C:\dev\mingw64\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\maps.cpp.dir/objects.a -Wl,--no-whole-archive  -o maps.cpp.exe -Wl,--out-implib,libmaps.cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\maps.cpp.dir\linklibs.rsp

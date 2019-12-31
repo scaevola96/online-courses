@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/meantemp.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

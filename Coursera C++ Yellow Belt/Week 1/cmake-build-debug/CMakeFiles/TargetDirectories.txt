@@ -1,0 +1,7 @@
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/block_weights.cpp.dir
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/main.cpp.dir
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/matrixclass.cpp.dir
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/meantemp.cpp.dir
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentarium/Code Workplace/Coursera C++ Yellow Belt/Week 1/cmake-build-debug/CMakeFiles/reigiondatabase.cpp.dir
